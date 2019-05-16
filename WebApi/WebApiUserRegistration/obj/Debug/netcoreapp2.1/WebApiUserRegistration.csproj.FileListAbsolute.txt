@@ -1,0 +1,14 @@
+C:\Users\HP-NPC\source\repos\WebApiUserRegistration\WebApiUserRegistration\bin\Debug\netcoreapp2.1\WebApiUserRegistration.deps.json
+C:\Users\HP-NPC\source\repos\WebApiUserRegistration\WebApiUserRegistration\bin\Debug\netcoreapp2.1\WebApiUserRegistration.runtimeconfig.json
+C:\Users\HP-NPC\source\repos\WebApiUserRegistration\WebApiUserRegistration\bin\Debug\netcoreapp2.1\WebApiUserRegistration.runtimeconfig.dev.json
+C:\Users\HP-NPC\source\repos\WebApiUserRegistration\WebApiUserRegistration\bin\Debug\netcoreapp2.1\WebApiUserRegistration.dll
+C:\Users\HP-NPC\source\repos\WebApiUserRegistration\WebApiUserRegistration\bin\Debug\netcoreapp2.1\WebApiUserRegistration.pdb
+C:\Users\HP-NPC\source\repos\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.1\WebApiUserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\HP-NPC\source\repos\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.1\WebApiUserRegistration.RazorAssemblyInfo.cache
+C:\Users\HP-NPC\source\repos\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.1\WebApiUserRegistration.RazorAssemblyInfo.cs
+C:\Users\HP-NPC\source\repos\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.1\WebApiUserRegistration.AssemblyInfoInputs.cache
+C:\Users\HP-NPC\source\repos\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.1\WebApiUserRegistration.AssemblyInfo.cs
+C:\Users\HP-NPC\source\repos\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.1\WebApiUserRegistration.RazorTargetAssemblyInfo.cache
+C:\Users\HP-NPC\source\repos\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.1\WebApiUserRegistration.dll
+C:\Users\HP-NPC\source\repos\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.1\WebApiUserRegistration.pdb
+C:\Users\HP-NPC\source\repos\WebApiUserRegistration\WebApiUserRegistration\obj\Debug\netcoreapp2.1\WebApiUserRegistration.csprojAssemblyReference.cache
